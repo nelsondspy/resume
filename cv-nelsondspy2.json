@@ -1,0 +1,237 @@
+{
+  "name": "Nelson Luis Durañona Sosa",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Informatics Engineer",
+    "brief": "Software developer: reliable, methodical, quality oriented and teamwork skills",
+    "image": ""
+  },
+  "contact": {
+    "website": "",
+    "phone": "0983 610 544",
+    "email": "nelsondspy@gmail.com",
+    "other": []
+  },
+  "location": {
+    "address": "Ypane Centro",
+    "city": "Ypane",
+    "region": "Central",
+    "code": "",
+    "country": "PY"
+  },
+  "social": [
+    {
+      "label": "",
+      "network": "GitHub",
+      "user": "nelsondspy",
+      "url": "https://github.com/nelsondspy"
+    }
+  ],
+  "employment": {
+    "summary": "Optional overall employment summary. Not used in most themes.",
+    "history": [
+      {
+        "employer": "Centro de Desarrollo Sostenible S.A.",
+        "url": "http://www.cds.com.py",
+        "position": "Developer",
+        "summary": "  ",
+        "start": "Feb-2017",
+        "keywords": [
+          "spin widgets",
+          "CRM",
+          "PM",
+          "Ninjitsu",
+          "Six Sigma"
+        ],
+        "highlights": [
+          "Participated projects "
+
+        ]
+      },
+      {
+        "employer": "Ruben Dario Comercial S.R.L.",
+        "url": "https://www.rubendariocomercial.com.py",
+        "position": "Database Manager and Developer",
+        "summary": "Maintenance and extension the <strong>ERP software</strong> .",
+        "start": "2009-07",
+        "end": "2017-10",
+        "keywords": [
+          "ERP software",
+          "Aquipago integration"
+        ],
+        "highlights": [
+          "Improve the business operations through the new functionalities and error fixing in his software",
+          "Payment integration with AquiPago and Pagoexpress api's"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Kinematics",
+      "category": "FOSS",
+      "url": "http://www.cds.com.py/productos/",
+      "repo": "Private repository",
+      "media": [
+        "https://www.youtube.com/watch?v=O_Bm6JpaJZk&t=2s"
+      ],
+      "role": "Contributor",
+      "summary": ".",
+      "description": "Work as developer using computer vision techniques  ",
+      "highlights": [
+        "The project was successfully finished"      ],
+      "keywords": [
+        "OpenCV",
+        "Python",
+        "Computer Vision"
+              ]
+    }
+  
+  ],
+  "education": {
+    "summary": "Optional overall education summary. Not used in most themes.",
+    "level": "degree",
+    "degree": "BSCS",
+    "history": [
+      {
+        "institution": "Acme University",
+        "title": "BSCS",
+        "url": "http://acmeuniversity.edu",
+        "start": "2004-09",
+        "end": "2009-06",
+        "grade": "3.5",
+        "summary": "Graduate of Acme University, summer of 2009. Go [Coyotes](https://en.wikipedia.org/wiki/Coyote)!",
+        "curriculum": [
+          "Data Algorithms",
+          "Optimization",
+          "Neural Networks",
+          "C",
+          "C++",
+          "Java",
+          "HTTP",
+          "TCP/IP"
+        ]
+      }
+    ]
+  },
+ 
+  "skills": {
+    "sets": [
+      {
+        "name": "Java Development",
+        "level": "advanced",
+        "skills": [
+          "JavaEE",
+          "Wildfly server",
+          "Spring",
+          "Apache Tomcat server"
+        ]
+      },
+      
+      {
+        "name": "Web Development",
+        "level": "advanced",
+        "skills": [
+          "REST ",
+          "LAMP",
+          "JavaScript",
+          "HTML 5",
+          "jQuery",
+          "Django",
+          "Flask",
+          "CodeIgniter"
+        ]
+      },
+      {
+        "name": "Computer vision",
+        "level": "intermediate",
+        "skills": [
+          "OpenCV",
+          "Fundamentals in image processing",
+          "Basic algorithms used in learn machine"
+        ]
+      }
+     
+    ],
+    "list": []
+  },
+ 
+  "reading": [
+    {
+      "title": "Other Copenhagens",
+      "flavor": "book",
+      "url": "http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209",
+      "author": "Edmund Jorgensen"
+    },
+    {
+      "title": "r/programming",
+      "flavor": "website",
+      "url": "https://www.reddit.com/r/programming"
+    },
+    {
+      "title": "Hacker News",
+      "flavor": "website",
+      "url": "https://news.ycombinator.com/"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "John Doe",
+      "category": "professional",
+      "role": "Manager @ Somewhere Inc.",
+      "private": true,
+      "summary": "Contact information available on request.",
+      "contact": [
+        {
+          "flavor": "email",
+          "value": "john.doe@somewhere.com"
+        }
+      ]
+    },
+    {
+      "name": "Jane Q. Fullstacker",
+      "category": "technical",
+      "summary": "Contact information available on request.",
+      "role": "Coworker",
+      "private": true,
+      "contact": [
+        {
+          "flavor": "email",
+          "value": "jane.fullstacker@somewhere.com"
+        }
+      ]
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "English",
+      "level": "intermediate"
+    }
+  
+  ],
+  "interests": [
+    {
+      "name": "GitHub",
+      "summary": "Regular GitHub user and tinkerer.",
+      "keywords": [
+        "GitHub",
+        "git",
+        "GitHub Desktop (OS X)",
+        "LFS",
+        "GitHub API"
+      ]
+    },
+    {
+      "name": "Football soccer",
+      "summary": "Avid soccer player.",
+      "keywords": [
+        "left side"
+      ]
+    }
+  ]
+}
